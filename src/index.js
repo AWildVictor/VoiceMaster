@@ -18,6 +18,6 @@ client.once("ready", async () => {
 
   logger.ok("Loaded " + keys.length + " channel configuration(s)")
 });
-
+ 
 client.once("error", error => logger.err(error));
 client.login(config["general"]["token"]).finally();
