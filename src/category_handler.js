@@ -1,4 +1,4 @@
-const {Mutex, withTimeout} = require("async-mutex")
+const {Mutex, withTimeout} = require("async-mutex") 
 
 class CategoryHandler {
   constructor(baseLogger, client, handlerId, categoryConfig) {
