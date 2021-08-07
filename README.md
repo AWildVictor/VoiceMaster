@@ -1,4 +1,4 @@
-# /VooiceMaster SRC Code
+# /VoiceMaster SRC Code
 Coded by JoKer
 
 VoiceMaster is a discord bot which allows you to automatically create temporary text and voice channels, when required
