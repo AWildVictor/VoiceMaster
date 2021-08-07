@@ -45,5 +45,5 @@ class Logger {
     return new Logger(name, this);
   }
 }
-
+ 
 module.exports = new Logger("");
