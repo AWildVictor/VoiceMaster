@@ -1,6 +1,7 @@
-# /tmp/channels
+# /VooiceMaster SRC Code
+Coded by JoKer
 
-/tmp/channels is a discord bot which allows you to automatically create temporary text and voice channels, when required
+VoiceMaster is a discord bot which allows you to automatically create temporary text and voice channels, when required
 
 ## Features
 - Temporary text channels for voice channels
@@ -10,11 +11,10 @@
 
 ## Installation
 1. Clone the GitHub repository using `git clone <url>`
-2. Copy `config.default.toml` to `config.toml`
-3. Edit the configuration according to [Configuration](#configuration)
-4. Build the docker image using `docker build -t tmpchannels .`
-5. Run the image using `docker run -d --name "<container name>" tmpchannels `
-6. Check if the bot is running using `docker ps`
+2. Edit the configuration according to [Configuration](#configuration)
+3. Build the docker image using `docker build -t tmpchannels .`
+4. Run the image using `docker run -d --name "<container name>" tmpchannels `
+5. Check if the bot is running using `docker ps`
 
 Repeat last two steps whenever the configuration is changed.
 
@@ -47,4 +47,6 @@ See [discord developer portal](https://discord.com/developers/docs/topics/permis
 - Enable `Developer mode` in Discord Settings -> Appearence 
 - Right-click a category and press `Copy ID` to copy a channel id
 - Right-click a role in role settings and press `Copy ID` to copy a role id
+
+###Coded by Joker | Inspired by the popular VoiceMaster Discord Bot
 
