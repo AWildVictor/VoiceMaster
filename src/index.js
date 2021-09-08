@@ -14,7 +14,7 @@ client.once("ready", async () => {
     new ChannelHandler(logger, client, key, config["categories"][key]);
   });
 
-  await client.user.setActivity('Coded by StanchoWest', { type: 'PLAYING' });
+  await client.user.setActivity('Developed by Moonwalker', { type: 'LISTENING' });
 
   logger.ok("Loaded " + keys.length + " channel configuration(s)")
 });
