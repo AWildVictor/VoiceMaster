@@ -1,5 +1,5 @@
 # /VoiceMaster SRC Code 
-Coded by JoKer
+Coded by Moonwalker
 
 VoiceMaster is a discord bot which allows you to automatically create temporary text and voice channels, when required
 
@@ -48,5 +48,5 @@ See [discord developer portal](https://discord.com/developers/docs/topics/permis
 - Right-click a category and press `Copy ID` to copy a channel id
 - Right-click a role in role settings and press `Copy ID` to copy a role id
 
-###Coded by Joker | Inspired by the popular VoiceMaster Discord Bot
+###Coded by Moonwalker | User Friendly SourceCode the popular VoiceMaster Discord Bot
 
