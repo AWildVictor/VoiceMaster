@@ -48,5 +48,5 @@ See [discord developer portal](https://discord.com/developers/docs/topics/permis
 - Right-click a category and press `Copy ID` to copy a channel id
 - Right-click a role in role settings and press `Copy ID` to copy a role id
 
-###Coded by Moonwalker | User Friendly SourceCode the popular VoiceMaster Discord Bot
+###Coded by Moonwalker | User-friendly source code of the popular VoiceMaster Discord Bot
 
